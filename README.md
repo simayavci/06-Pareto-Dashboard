@@ -1,4 +1,4 @@
-# 06--Pareto-Dashboard
+# 06-Pareto-Dashboard
 📈Pareto kuralını Nortwind db'sinde farklı ülkeler ile test etmeye çalıştım.
 
 📊Pareto kuralı, etkilerin %80'inin etkenlerin %20'sinden kaynaklandığını belirtir. Yapmış olduğum örnekte ise her ülkedeki toplam satışların %80'inin müşterilerin %20'sinden olup olmadığını görmek istedim.
